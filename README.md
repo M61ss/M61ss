@@ -19,7 +19,7 @@
 
 <div id="visitors" align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=M61ss&style=for-the-badge&label=You+are+visitor&color=04920e"
+    src="https://komarev.com/ghpvc/?username=M61ss&style=for-the-badge&label=VISITS&color=04920e"
     />
 </div>
 
