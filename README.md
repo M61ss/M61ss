@@ -17,12 +17,6 @@
     />
 </div>
 
-<div id="visitors" align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=M61ss&style=for-the-badge&label=VISITS&color=04920e"
-    />
-</div>
-
 <h2 align="center">
   About Me
 </h2>
@@ -54,6 +48,7 @@
   _Frameworks_:
 
   ![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
   _Version control_:
