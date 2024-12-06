@@ -81,10 +81,6 @@
 <br />
 <br />
 
-<h3 align="center">
-  Happy Coding!
-</h3>
-
 <div id="cat" align="center">
   <img 
     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9oa2lyaDd0cGp6NzU5NTBwZGRieXJ6YzhyajFqYjV6Z3Y2aTV6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" 
