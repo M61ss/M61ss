@@ -6,7 +6,7 @@
 
 <h1 align="center">💡 Skills 💡</h1>
 
-<h3 align="center">🧑‍💻 Languages & Frameworks 💻</h3>
+<h2 align="center">🧑‍💻 Languages & Frameworks 💻</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,7 +26,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<h3 align="center">🛠 Tools 🧰</h3>
+<h2 align="center">🛠 Tools 🧰</h2>
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -46,7 +46,7 @@
 
 <h1 align="center">📐 Projects 🏗</h1>
 
-### Websites 🌐
+## Websites 🌐
 
 - Showcase website for a restaurant: [Restaurant - Home](https://restaurant-facsimile.netlify.app/)
 - Showcase website for a pizzeria: [Pizzeria - Home](https://pizzeria-facsimile.netlify.app/)
