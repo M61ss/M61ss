@@ -1,8 +1,3 @@
-<h1 align="center">Welcome! 👋</h1>
-
-![M61ss's Stats](https://github-readme-stats.vercel.app/api?username=M61ss&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false)
-![M61ss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M61ss&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-
 <h1 align="center">💡 Skills 💡</h1>
 
 ## 🧑‍💻 Languages & Frameworks 💻
